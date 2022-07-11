@@ -1,0 +1,7 @@
+- 👋 Olá, Meu nome é Gabriel Estéfono
+- 👀 Eu me interesso por, principalmente DataScience e Front-End
+- 🌱 Atualmente estou aprendendo JavaScript
+- 💞️ Procuro me aperfeiçoar e ser um desenvolvedor full stack
+- 📫 Como me contatar:
+-         * gabrielestefono@hotmail.com
+-         * https://www.linkedin.com/in/gabrielestefono/
